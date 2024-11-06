@@ -5,7 +5,7 @@ datadogRum.init({
     clientToken: '<YOUR_CLIENT_TOKEN>',
     // `site` refers to the Datadog site parameter of your organization
     // see https://docs.datadoghq.com/getting_started/site/
-    site: 'ap1.datadoghq.com',
+    site: '<YOUR_SITE>',
     service: '<YOUR_SERVICE>',
     env: '<YOUR_ENVIRONMENT>',
     // Specify a version number to identify the deployed version of your application in Datadog
